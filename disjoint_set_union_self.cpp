@@ -1,3 +1,4 @@
+//ek bar striver ki video dekhna agr smj na aye
 #include <bits/stdc++.h>
 using namespace std;
 int parent[100000];
